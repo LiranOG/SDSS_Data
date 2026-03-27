@@ -1,9 +1,0 @@
-ETF-score and Phi_TDA correlation results
-==========================================
-Phi_TDA = 977.083349
-ETF-score (full sample) = 0.449669
-Bootstrap (n=100, size=70% of data):
-  Mean ETF = 0.450763
-  Std ETF = 0.028691
-  Min = 0.370521
-  Max = 0.541204

@@ -1,6 +1,0 @@
-Cosmic scale eta_IB results (nside=64)
-======================================
-I(T;Y) = 0.245567 nats
-I(X;T) = 83.396532 nats
-eta_IB = 0.002945
-Valid pixels: 210
